@@ -1,0 +1,2 @@
+# Disable formatting for YAML files
+*.yaml editorconfig=false
